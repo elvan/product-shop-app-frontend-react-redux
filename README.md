@@ -70,6 +70,11 @@
 
 ---
 
+![Admin Order Details](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160400.png)
+*Admin Order Details*
+
+---
+
 ![Products Search](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160421.png)
 *Products Search*
 
@@ -77,6 +82,11 @@
 
 ![Sign Up](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160148.png)
 *Sign Up*
+
+---
+
+![Sign In](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20173633.png)
+*Sign In*
 
 ---
 
