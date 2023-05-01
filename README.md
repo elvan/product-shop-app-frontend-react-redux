@@ -1,3 +1,85 @@
+# ProductShop
+
+![Products Catalog](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20155856.png)
+*Products Catalog*
+
+---
+
+![Product Details](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20155916.png)
+*Product Details*
+
+---
+
+![Shopping Cart](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20155938.png)
+*Shopping Cart*
+
+---
+
+![Shipping Address](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160000.png)
+*Shipping Address*
+
+---
+
+![Payment Method](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160011.png)
+*Payment Method*
+
+---
+
+![Place Order](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160025.png)
+*Place Order*
+
+---
+
+![Order Details](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160041.png)
+*Order Details*
+
+---
+
+![My Orders](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160055.png)
+*My Orders*
+
+---
+
+![Paid Order](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160119.png)
+*Paid Order*
+
+---
+
+![Admin Users Listing](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160218.png)
+*Admin Users Listing*
+
+---
+
+![Edit User](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160240.png)
+*Edit User*
+
+---
+
+![Admin Products Listing](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160255.png)
+*Admin Products Listing*
+
+---
+
+![Edit Product](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160306.png)
+*Edit Product*
+
+---
+
+![Admin Orders Listing](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160320.png)
+*Admin Orders Listing*
+
+---
+
+![Products Search](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160421.png)
+*Products Search*
+
+---
+
+![Sign Up](https://raw.githubusercontent.com/elvan/product-shop-app-frontend-react-redux/main/_screenshots/Screenshot%202023-05-01%20160148.png)
+*Sign Up*
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
