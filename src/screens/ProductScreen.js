@@ -16,6 +16,7 @@ import {
 } from '../actions/productActions';
 import Loader from '../components/Loader';
 import Message from '../components/Message';
+import Meta from '../components/Meta';
 import Rating from '../components/Rating';
 import { PRODUCT_CREATE_REVIEW_RESET } from '../constants/productConstants';
 
@@ -71,6 +72,7 @@ const ProductScreen = ({ history, match }) => {
         <Message variant='danger'>{error}</Message>
       ) : (
         <>
+          <Meta title={product.name} />
           <Row>
             <Col md={6}>
               <Image src={product.image} alt={product.name} fluid />
@@ -170,7 +172,7 @@ const ProductScreen = ({ history, match }) => {
                   )}
                   {userInfo ? (
                     <Form onSubmit={submitHandler}>
-                      <Form.Group controlId='rating' className='mb-3'>
+                      <Form.Group controlId='rating'>
                         <Form.Label>Rating</Form.Label>
                         <Form.Control
                           as='select'
@@ -185,7 +187,7 @@ const ProductScreen = ({ history, match }) => {
                           <option value='5'>5 - Excellent</option>
                         </Form.Control>
                       </Form.Group>
-                      <Form.Group controlId='comment' className='mb-3'>
+                      <Form.Group controlId='comment'>
                         <Form.Label>Comment</Form.Label>
                         <Form.Control
                           as='textarea'
